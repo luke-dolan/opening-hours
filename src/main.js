@@ -64,7 +64,7 @@ class HoursWidget {
   async initialize() {
     console.log("HoursWidget initialize() called");
     if (!this.targetElement) {
-      console.error("Target element with class 'widget__container' not found.");
+      console.error("Target element with class 'widget__container-hours' not found.");
       return;
     }
 
@@ -143,12 +143,12 @@ class HoursWidget {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  const targetElement = document.querySelector(".widget__container");
+  const targetElement = document.querySelector(".widget__container-hours");
   if (targetElement) {
     new HoursWidget(targetElement);
   } else {
     console.error(
-      "No element with class 'widget__container' found in the DOM."
+      "No element with class 'widget__container-hours' found in the DOM."
     );
   }
 });

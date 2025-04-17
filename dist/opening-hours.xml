@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Library>
+	<Links>
+		<Link Library="James Joyce Library" Url="http://www.ucd.ie/library/using_the_library/our_libraries/jjl/"/>
+		<Link Library="Health Sciences Library" Url="http://www.ucd.ie/library/using_the_library/our_libraries/hsl/"/>
+		<Link Library="Richview Library" Url="http://www.ucd.ie/library/using_the_library/our_libraries/richview/"/>
+		<Link Library="Blackrock Library" Url="http://www.ucd.ie/library/using_the_library/our_libraries/blackrock/"/>
+		<Link Library="Veterinary Medicine Library" Url="http://www.ucd.ie/library/using_the_library/our_libraries/vetmed/"/>
+	</Links>
+	<Semesters>
+		<Semester Name="Easter week 1" StartDate="14/04/2025" EndDate="20/04/2025"/>
+		<Semester Name="Easter week 2" StartDate="21/04/2025" EndDate="27/04/2025"/>
+		<Semester Name="Extended Hours 2" StartDate="28/04/2025" EndDate="04/05/2025"/>
+		<Semester Name="May Bank Holiday" StartDate="05/05/2025" EndDate="11/05/2025"/>
+		<Semester Name="Extended Hours 3" StartDate="12/05/2025" EndDate="18/05/2025"/>
+	</Semesters>
+	<Exceptions>
+		<Exception Service="James Joyce Library" Name="March Bank Holidays" StartDate="17/03/2022" EndDate="19/03/2022" Hours="Closed" OnHomepage="true"/>
+		<Exception Service="Health Sciences Library" Name="March Bank Holidays" StartDate="17/03/2022" EndDate="20/03/2022" Hours="Closed" OnHomepage="true"/>
+		<Exception Service="Veterinary Medicine Library" Name="March Bank Holidays" StartDate="17/03/2022" EndDate="20/03/2022" Hours="Closed" OnHomepage="true"/>
+		<Exception Service="Richview Library" Name="March Bank Holidays" StartDate="17/03/2022" EndDate="20/03/2022" Hours="Closed" OnHomepage="true"/>
+		<Exception Service="Blackrock Library" Name="March Bank Holidays" StartDate="17/03/2022" EndDate="20/03/2022" Hours="Closed" OnHomepage="true"/>
+	</Exceptions>
+	<OpeningHours>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 1" Day="Monday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 1" Day="Tuesday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 1" Day="Wednesday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 1" Day="Thursday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 1" Day="Friday" Hours="09:00 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 1" Day="Saturday" Hours="09:00 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 1" Day="Sunday" Hours="Closed" OnHomepage="true" Note="Easter Sunday"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 1" Day="Monday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 1" Day="Tuesday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 1" Day="Wednesday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 1" Day="Thursday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 1" Day="Friday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 1" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 1" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 1" Day="Monday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 1" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 1" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 1" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 1" Day="Friday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 1" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 1" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 1" Day="Monday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 1" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 1" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 1" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 1" Day="Friday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 1" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 1" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 1" Day="Monday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 1" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 1" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 1" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 1" Day="Friday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 1" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 1" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 1" Day="Monday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 1" Day="Tuesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 1" Day="Wednesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 1" Day="Thursday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 1" Day="Friday" Hours="Closed" OnHomepage="true" Note="Easter weekend"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 1" Day="Saturday" Hours="Closed" OnHomepage="true" Note="Easter weekend"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 1" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 1" Day="Monday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 1" Day="Tuesday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 1" Day="Wednesday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 1" Day="Thursday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 1" Day="Friday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 1" Day="Saturday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 1" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 1" Day="Monday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 1" Day="Tuesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 1" Day="Wednesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 1" Day="Thursday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 1" Day="Friday" Hours="Closed" OnHomepage="true" Note="Easter weekend"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 1" Day="Saturday" Hours="Closed" OnHomepage="true" Note="Easter weekend"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 1" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 1" Day="Monday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 1" Day="Tuesday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 1" Day="Wednesday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 1" Day="Thursday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 1" Day="Friday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 1" Day="Saturday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 1" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 1" Day="Monday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 1" Day="Tuesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 1" Day="Wednesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 1" Day="Thursday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 1" Day="Friday" Hours="Closed" OnHomepage="true" Note="Easter weekend"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 1" Day="Saturday" Hours="Closed" OnHomepage="true" Note="Easter weekend"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 1" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 1" Day="Monday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 1" Day="Tuesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 1" Day="Wednesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 1" Day="Thursday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 1" Day="Friday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 1" Day="Saturday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 1" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 1" Day="Monday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 1" Day="Tuesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 1" Day="Wednesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 1" Day="Thursday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 1" Day="Friday" Hours="Closed" OnHomepage="true" Note="Easter weekend"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 1" Day="Saturday" Hours="Closed" OnHomepage="true" Note="Easter weekend"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 1" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 1" Day="Monday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 1" Day="Tuesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 1" Day="Wednesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 1" Day="Thursday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 1" Day="Friday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 1" Day="Saturday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 1" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 2" Day="Monday" Hours="09:00 - 21:00" OnHomepage="true" Note="Easter Monday"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 2" Day="Tuesday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 2" Day="Wednesday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 2" Day="Thursday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 2" Day="Friday" Hours="09:00 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 2" Day="Saturday" Hours="09:00 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Easter week 2" Day="Sunday" Hours="09:00 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 2" Day="Monday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 2" Day="Tuesday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 2" Day="Wednesday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 2" Day="Thursday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 2" Day="Friday" Hours="09:00 - 17:00"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 2" Day="Saturday" Hours="09:30 - 16:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Easter week 2" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 2" Day="Monday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 2" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 2" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 2" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 2" Day="Friday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 2" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Easter week 2" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 2" Day="Monday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 2" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 2" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 2" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 2" Day="Friday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 2" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Easter week 2" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 2" Day="Monday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 2" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 2" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 2" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 2" Day="Friday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 2" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Easter week 2" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 2" Day="Monday" Hours="Closed" OnHomepage="true" Note="Easter Monday"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 2" Day="Tuesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 2" Day="Wednesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 2" Day="Thursday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 2" Day="Friday" Hours="08:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 2" Day="Saturday" Hours="09:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Easter week 2" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 2" Day="Monday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 2" Day="Tuesday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 2" Day="Wednesday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 2" Day="Thursday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 2" Day="Friday" Hours="09:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 2" Day="Saturday" Hours="10:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Easter week 2" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 2" Day="Monday" Hours="Closed" OnHomepage="true" Note="Easter Monday"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 2" Day="Tuesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 2" Day="Wednesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 2" Day="Thursday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 2" Day="Friday" Hours="08:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 2" Day="Saturday" Hours="10:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Easter week 2" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 2" Day="Monday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 2" Day="Tuesday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 2" Day="Wednesday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 2" Day="Thursday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 2" Day="Friday" Hours="08:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 2" Day="Saturday" Hours="10:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Easter week 2" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 2" Day="Monday" Hours="Closed" OnHomepage="true" Note="Easter Monday"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 2" Day="Tuesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 2" Day="Wednesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 2" Day="Thursday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 2" Day="Friday" Hours="09:30 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 2" Day="Saturday" Hours="10:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Easter week 2" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 2" Day="Monday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 2" Day="Tuesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 2" Day="Wednesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 2" Day="Thursday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 2" Day="Friday" Hours="09:30 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 2" Day="Saturday" Hours="10:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Easter week 2" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 2" Day="Monday" Hours="Closed" OnHomepage="true" Note="Easter Monday"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 2" Day="Tuesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 2" Day="Wednesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 2" Day="Thursday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 2" Day="Friday" Hours="09:30 - 19:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 2" Day="Saturday" Hours="10:00 - 16:15" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Easter week 2" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 2" Day="Monday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 2" Day="Tuesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 2" Day="Wednesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 2" Day="Thursday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 2" Day="Friday" Hours="09:30 - 18:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 2" Day="Saturday" Hours="10:00 - 16:00" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Easter week 2" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 2" Day="Monday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 2" Day="Tuesday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 2" Day="Wednesday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 2" Day="Thursday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 2" Day="Friday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 2" Day="Saturday" Hours="09:00 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 2" Day="Sunday" Hours="09:00 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 2" Day="Monday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 2" Day="Tuesday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 2" Day="Wednesday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 2" Day="Thursday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 2" Day="Friday" Hours="09:00 - 17:00"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 2" Day="Saturday" Hours="09:30 - 16:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 2" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 2" Day="Monday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 2" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 2" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 2" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 2" Day="Friday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 2" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 2" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 2" Day="Monday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 2" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 2" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 2" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 2" Day="Friday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 2" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 2" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 2" Day="Monday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 2" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 2" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 2" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 2" Day="Friday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 2" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 2" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 2" Day="Monday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 2" Day="Tuesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 2" Day="Wednesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 2" Day="Thursday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 2" Day="Friday" Hours="08:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 2" Day="Saturday" Hours="09:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 2" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 2" Day="Monday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 2" Day="Tuesday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 2" Day="Wednesday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 2" Day="Thursday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 2" Day="Friday" Hours="09:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 2" Day="Saturday" Hours="10:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 2" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 2" Day="Monday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 2" Day="Tuesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 2" Day="Wednesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 2" Day="Thursday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 2" Day="Friday" Hours="08:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 2" Day="Saturday" Hours="10:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 2" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 2" Day="Monday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 2" Day="Tuesday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 2" Day="Wednesday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 2" Day="Thursday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 2" Day="Friday" Hours="08:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 2" Day="Saturday" Hours="10:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 2" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 2" Day="Monday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 2" Day="Tuesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 2" Day="Wednesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 2" Day="Thursday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 2" Day="Friday" Hours="09:30 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 2" Day="Saturday" Hours="10:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 2" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 2" Day="Monday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 2" Day="Tuesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 2" Day="Wednesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 2" Day="Thursday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 2" Day="Friday" Hours="09:30 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 2" Day="Saturday" Hours="10:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 2" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 2" Day="Monday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 2" Day="Tuesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 2" Day="Wednesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 2" Day="Thursday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 2" Day="Friday" Hours="09:30 - 19:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 2" Day="Saturday" Hours="10:00 - 16:15" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 2" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 2" Day="Monday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 2" Day="Tuesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 2" Day="Wednesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 2" Day="Thursday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 2" Day="Friday" Hours="09:30 - 18:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 2" Day="Saturday" Hours="10:00 - 16:00" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 2" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="May Bank Holiday" Day="Monday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="May Bank Holiday" Day="Tuesday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="May Bank Holiday" Day="Wednesday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="May Bank Holiday" Day="Thursday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="May Bank Holiday" Day="Friday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="May Bank Holiday" Day="Saturday" Hours="09:00 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="May Bank Holiday" Day="Sunday" Hours="09:00 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="May Bank Holiday" Day="Monday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="May Bank Holiday" Day="Tuesday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="May Bank Holiday" Day="Wednesday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="May Bank Holiday" Day="Thursday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="May Bank Holiday" Day="Friday" Hours="09:00 - 17:00"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="May Bank Holiday" Day="Saturday" Hours="09:30 - 16:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="May Bank Holiday" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="May Bank Holiday" Day="Monday" Hours="Closed" Note="May Bank Holiday"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="May Bank Holiday" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="May Bank Holiday" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="May Bank Holiday" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="May Bank Holiday" Day="Friday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="May Bank Holiday" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="May Bank Holiday" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="May Bank Holiday" Day="Monday" Hours="Closed" Note="May Bank Holiday"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="May Bank Holiday" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="May Bank Holiday" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="May Bank Holiday" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="May Bank Holiday" Day="Friday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="May Bank Holiday" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="May Bank Holiday" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="May Bank Holiday" Day="Monday" Hours="Closed" Note="May Bank Holiday"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="May Bank Holiday" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="May Bank Holiday" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="May Bank Holiday" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="May Bank Holiday" Day="Friday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="May Bank Holiday" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="May Bank Holiday" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="May Bank Holiday" Day="Monday" Hours="Closed" OnHomepage="true" Note="May Bank Holiday"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="May Bank Holiday" Day="Tuesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="May Bank Holiday" Day="Wednesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="May Bank Holiday" Day="Thursday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="May Bank Holiday" Day="Friday" Hours="08:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="May Bank Holiday" Day="Saturday" Hours="09:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="May Bank Holiday" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="May Bank Holiday" Day="Monday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="May Bank Holiday" Day="Tuesday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="May Bank Holiday" Day="Wednesday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="May Bank Holiday" Day="Thursday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="May Bank Holiday" Day="Friday" Hours="09:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="May Bank Holiday" Day="Saturday" Hours="10:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="May Bank Holiday" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="May Bank Holiday" Day="Monday" Hours="Closed" OnHomepage="true" Note="May Bank Holiday"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="May Bank Holiday" Day="Tuesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="May Bank Holiday" Day="Wednesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="May Bank Holiday" Day="Thursday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="May Bank Holiday" Day="Friday" Hours="08:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="May Bank Holiday" Day="Saturday" Hours="10:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="May Bank Holiday" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="May Bank Holiday" Day="Monday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="May Bank Holiday" Day="Tuesday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="May Bank Holiday" Day="Wednesday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="May Bank Holiday" Day="Thursday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="May Bank Holiday" Day="Friday" Hours="08:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="May Bank Holiday" Day="Saturday" Hours="10:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="May Bank Holiday" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="May Bank Holiday" Day="Monday" Hours="Closed" OnHomepage="true" Note="May Bank Holiday"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="May Bank Holiday" Day="Tuesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="May Bank Holiday" Day="Wednesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="May Bank Holiday" Day="Thursday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="May Bank Holiday" Day="Friday" Hours="09:30 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="May Bank Holiday" Day="Saturday" Hours="10:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="May Bank Holiday" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="May Bank Holiday" Day="Monday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="May Bank Holiday" Day="Tuesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="May Bank Holiday" Day="Wednesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="May Bank Holiday" Day="Thursday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="May Bank Holiday" Day="Friday" Hours="09:30 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="May Bank Holiday" Day="Saturday" Hours="10:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="May Bank Holiday" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="May Bank Holiday" Day="Monday" Hours="Closed" OnHomepage="true" Note="May Bank Holiday"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="May Bank Holiday" Day="Tuesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="May Bank Holiday" Day="Wednesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="May Bank Holiday" Day="Thursday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="May Bank Holiday" Day="Friday" Hours="09:30 - 19:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="May Bank Holiday" Day="Saturday" Hours="10:00 - 16:15" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="May Bank Holiday" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="May Bank Holiday" Day="Monday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="May Bank Holiday" Day="Tuesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="May Bank Holiday" Day="Wednesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="May Bank Holiday" Day="Thursday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="May Bank Holiday" Day="Friday" Hours="09:30 - 18:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="May Bank Holiday" Day="Saturday" Hours="10:00 - 16:00" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="May Bank Holiday" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 3" Day="Monday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 3" Day="Tuesday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 3" Day="Wednesday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 3" Day="Thursday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 3" Day="Friday" Hours="08:00 - 24:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 3" Day="Saturday" Hours="09:00 - 21:00" OnHomepage="true" Note="To be confirmed"/>
+		<OpeningHour Library="James Joyce Library" Service="James Joyce Library" Semester="Extended Hours 3" Day="Sunday" Hours="09:00 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 3" Day="Monday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 3" Day="Tuesday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 3" Day="Wednesday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 3" Day="Thursday" Hours="09:00 - 21:45"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 3" Day="Friday" Hours="09:00 - 17:00"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 3" Day="Saturday" Hours="09:30 - 16:45" Note="To be confirmed"/>
+		<OpeningHour Library="James Joyce Library" Service="Level 1 Service Desk" Semester="Extended Hours 3" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 3" Day="Monday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 3" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 3" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 3" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 3" Day="Friday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 3" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="Special Collections" Semester="Extended Hours 3" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 3" Day="Monday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 3" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 3" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 3" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 3" Day="Friday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 3" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="UCD Archives" Semester="Extended Hours 3" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 3" Day="Monday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 3" Day="Tuesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 3" Day="Wednesday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 3" Day="Thursday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 3" Day="Friday" Hours="10:00 - 16:30" Note="Appt only - Closed from 1pm-2pm"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 3" Day="Saturday" Hours="Closed"/>
+		<OpeningHour Library="James Joyce Library" Service="National Folklore Collection" Semester="Extended Hours 3" Day="Sunday" Hours="Closed"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 3" Day="Monday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 3" Day="Tuesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 3" Day="Wednesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 3" Day="Thursday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 3" Day="Friday" Hours="08:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 3" Day="Saturday" Hours="09:00 - 17:00" OnHomepage="true" Note="To be confirmed"/>
+		<OpeningHour Library="Health Sciences Library" Service="Health Sciences Library" Semester="Extended Hours 3" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 3" Day="Monday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 3" Day="Tuesday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 3" Day="Wednesday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 3" Day="Thursday" Hours="09:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 3" Day="Friday" Hours="09:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 3" Day="Saturday" Hours="10:00 - 16:45" OnHomepage=" " Note="To be confirmed"/>
+		<OpeningHour Library="Health Sciences Library" Service="Service Desk" Semester="Extended Hours 3" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 3" Day="Monday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 3" Day="Tuesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 3" Day="Wednesday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 3" Day="Thursday" Hours="08:00 - 22:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 3" Day="Friday" Hours="08:00 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 3" Day="Saturday" Hours="10:00 - 17:00" OnHomepage="true" Note="To be confirmed"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Veterinary Medicine Library" Semester="Extended Hours 3" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 3" Day="Monday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 3" Day="Tuesday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 3" Day="Wednesday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 3" Day="Thursday" Hours="08:00 - 21:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 3" Day="Friday" Hours="08:00 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 3" Day="Saturday" Hours="10:00 - 16:45" OnHomepage=" " Note="To be confirmed"/>
+		<OpeningHour Library="Veterinary Medicine Library" Service="Service Desk" Semester="Extended Hours 3" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 3" Day="Monday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 3" Day="Tuesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 3" Day="Wednesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 3" Day="Thursday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 3" Day="Friday" Hours="09:30 - 17:00" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 3" Day="Saturday" Hours="10:00 - 17:00" OnHomepage="true" Note="To be confirmed"/>
+		<OpeningHour Library="Richview Library" Service="Richview Library" Semester="Extended Hours 3" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 3" Day="Monday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 3" Day="Tuesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 3" Day="Wednesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 3" Day="Thursday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 3" Day="Friday" Hours="09:30 - 16:45" OnHomepage=" "/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 3" Day="Saturday" Hours="10:00 - 16:45" OnHomepage=" " Note="To be confirmed"/>
+		<OpeningHour Library="Richview Library" Service="Service Desk" Semester="Extended Hours 3" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 3" Day="Monday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 3" Day="Tuesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 3" Day="Wednesday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 3" Day="Thursday" Hours="09:30 - 21:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 3" Day="Friday" Hours="09:30 - 19:00" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 3" Day="Saturday" Hours="10:00 - 16:15" OnHomepage="true" Note="To be confirmed"/>
+		<OpeningHour Library="Blackrock Library" Service="Blackrock Library" Semester="Extended Hours 3" Day="Sunday" Hours="Closed" OnHomepage="true"/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 3" Day="Monday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 3" Day="Tuesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 3" Day="Wednesday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 3" Day="Thursday" Hours="09:30 - 20:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 3" Day="Friday" Hours="09:30 - 18:45" OnHomepage=" "/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 3" Day="Saturday" Hours="10:00 - 16:00" OnHomepage=" " Note="To be confirmed"/>
+		<OpeningHour Library="Blackrock Library" Service="Service Desk" Semester="Extended Hours 3" Day="Sunday" Hours="Closed" OnHomepage=" "/>
+	</OpeningHours>
+</Library>

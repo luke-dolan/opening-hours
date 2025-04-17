@@ -1,12 +1,12 @@
 export const styles = `
-    .widget__container * {
+    .widget__container-hours * {
         box-sizing: border-box;
     }        
     h3, p, input {
         margin: 0;
         padding: 0;
     }
-    .widget__container {
+    .widget__container-hours {
         // box-shadow: 0 0 18px 8px rgba(0, 0, 0, 0.1), 0 0 32px 32px rgba(0, 0, 0, 0.08);
         width: 100%;
         overflow: auto;

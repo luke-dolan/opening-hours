@@ -64,7 +64,9 @@ class HoursWidget {
   async initialize() {
     console.log("HoursWidget initialize() called");
     if (!this.targetElement) {
-      console.error("Target element with class 'widget__container-hours' not found.");
+      console.error(
+        "Target element with class 'widget__container-hours' not found."
+      );
       return;
     }
 
@@ -82,25 +84,9 @@ class HoursWidget {
     console.log("$table found immediately:", $table);
     if ($table.length > 0) {
       setTimeout(() => {
-          this.applyOpeningHoursPluginNow($table);
+        this.applyOpeningHoursPluginNow($table);
       }, 50); // Small delay in milliseconds
-  }
-
-    // We might not need the MutationObserver anymore in this direct approach
-    // If you anticipate further dynamic table updates, you might keep it.
-    // For now, let's comment it out.
-    // const observer = new MutationObserver((mutationsList, observer) => {
-    //     console.log('MutationObserver callback triggered!');
-    //     console.log('Mutations:', mutationsList);
-    //     const $table = $(this.widgetContainer).find("table.ucd-library-homepage-hours");
-    //     console.log('$table found (inside observer):', $table);
-    //     if ($table.length > 0) {
-    //         this.applyOpeningHoursPluginNow($table);
-    //         observer.disconnect();
-    //     }
-    // });
-    // observer.observe(this.widgetContainer, { childList: true, subtree: true });
-    // console.log('MutationObserver attached to:', this.widgetContainer);
+    }
   }
 
   createWidgetContent() {
